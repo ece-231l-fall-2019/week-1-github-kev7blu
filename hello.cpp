@@ -3,12 +3,12 @@
 int main()
 {
 	std::cout << "# My story " << std::endl;
-	std::cout << "__My name Kevin Henry__ " << std::endl;
-	std::cout << "##** I'm from Albuquerque, NM** " << std::endl;
+	std::cout << "__My name Kevin Henry__ :smile: " << std::endl;
+	std::cout << "## ** I'm from Albuquerque, NM** " << std::endl;
 	std::cout << "#### Learn how to code in C++ and review some C. " << std::endl;
 	std::cout << "## __*I hope to get my degree, get a great job:tada:, maybe start a family and life etc.*__ "            <<std::endl;
 	std::cout << "              " << std::endl;
-	std::cout << "![Fisherman's Wharf-San Francisco](https://photos.app.goo.gl/Qjro1zjhQRjo2fds9) " << std::endl;
+	std::cout << "![Fisherman's Wharf-San Francisco](https://photos.app.goo.gl/yHjHCM7kdbivKA9a9) " << std::endl;
 	std::cout << "(https://www.instagram.com/kev7blu/) "<< std::endl;
 
 
