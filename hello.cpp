@@ -7,8 +7,8 @@ int main()
 	std::cout << "## ** I'm from Albuquerque, NM** " << std::endl;
 	std::cout << "#### Learn how to code in C++ and review some C. " << std::endl;
 	std::cout << "## __*I hope to get my degree, get a great job:tada:, maybe start a family and life etc.*__ "            <<std::endl;
-	std::cout << "              " << std::endl;
-	std::cout << "![Fisherman's Wharf-San Francisco](https://photos.app.goo.gl/yHjHCM7kdbivKA9a9) " << std::endl;
+	std::cout << "      ###:smile:        " << std::endl;
+	std::cout << " ![Fisherman's Wharf-San Francisco](https://photos.app.goo.gl/yHjHCM7kdbivKA9a9) " << std::endl;
 	std::cout << "(https://www.instagram.com/kev7blu/) "<< std::endl;
 
 
